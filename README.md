@@ -22,9 +22,3 @@
 <p align="center">
 <img  src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,git,github">
  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushal41&show_icons=true&locale=en&layout=compact" alt="khushal41" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal41&show_icons=true&locale=en" alt="khushal41" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushal41&" alt="khushal41" /></p>

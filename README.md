@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal41&label=Profile%20views&color=0e75b6&style=flat" alt="khushal41" /> </p>
 
-- 🔭 I’m currently working on **Fronted Technology**
+- 🔭 I’m currently working on **Backend Technology**
 
-- 🌱 I’m currently learning **React,MongoDB,ExpressJS,ReactJS,NodeJS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me :- **Khushalbhavsar41@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img  src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,git,github">
+<img  src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,git,github,MongoDB,ExpressJS,ReactJS,NodeJS">
  </p>
 
 

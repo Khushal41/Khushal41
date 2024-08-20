@@ -4,7 +4,7 @@
   <b style="color: blue;  ">Visitor count</b>
   <br>
   <a style="" href="(https://github.com/Khushal41)">
-  <img src="https://profile-counter.glitch.me/ShanedraSingh/count.svg" />
+  <img src="https://profile-counter.glitch.me/Khushal41/count.svg" />
   </a>
 </p>
 

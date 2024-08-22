@@ -16,7 +16,7 @@
 
 Hello! I'm Khushal Ravindra Bhavsar, currently in my final year at KDK College of Engineering, Nagpur, where I'm pursuing a degree in Electronic and Telecommunication Engineering, set to graduate in 2025. I have a strong skill set in HTML & CSS, Tailwind, React, JavaScript, Node.js, Express, MongoDB, SQL, MySQL, Git & GitHub, Bootstrap, and C++. I am actively seeking internships and full-time opportunities in backend and full-stack web development, eager to apply my knowledge and contribute to impactful projects.
 
-- 🔭 I’m currently working on **Backend Technology**                                                                                                                                
+- 🔭 I’m currently working on **Backend Projects**                                                                                                                                
 - 💬 Ask me about **Full-Stck Web Development**                                                                                                                                        
 - 🌱 I’m currently learning **React**                                                                                                                                               
 - 📫 How to reach me :- **Khushalbhavsar41@gmail.com**

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development Project's                                                                                                                                <br>💬 Ask me about Full Stack Web Development                                                                                                                                       <br>🌱 I’m currently learning React                                                                                                                                              <br>📫 How to reach me : Khushalbhavsar41@gmail.com
+🔭 I’m currently working on Full Stack Web Development Project's                                                                                                                                <br>💬 Ask me about Full Stack Web Development                                                                                                                                              <br>📫 How to reach me : Khushalbhavsar41@gmail.com
 
 
 ## 🌐 Socials:

@@ -3,15 +3,15 @@
 ![Welcome Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FC00FF&center=true&width=1000&lines=Hi+There!+I+am+Khushal+Bhavsar;Passionate+Full+Stack+Web+Developer;DSA+Enthusiast+%26+Problem+Solver;Always+Learning+%26+Improving)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Coding Animation"/>
 </div>
 
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development Projects<br>
-💬 Ask me about Full Stack Web Development<br>
-📫 How to reach me: **Khushalbhavsar41@gmail.com**
+- 🔭 I’m currently working on Full Stack Web Development Projects  
+- 💬 Ask me about Full Stack Web Development  
+- 📫 How to reach me: **Khushalbhavsar41@gmail.com**
 
 ---
 
@@ -42,10 +42,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushal41&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushal41&theme=midnight-purple&hide_border=false" alt="GitHub Streak"/>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushal41&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khushal41&theme=midnight-purple&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal41&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 

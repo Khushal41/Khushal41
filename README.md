@@ -2,17 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FE&center=true&width=1000&lines=Hi,%20I'm%20Khushal%20Bhavsar!;Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast;Problem%20Solver;Tech%20Explorer%20🚀" />
 </h1>
 
-
 # 💫 About Me:
-💻 Full-Stack Developer skilled in MERN stack and AWS Cloud, building scalable and secure web applications.<br>
-🚀 Passionate about solving real-world problems through technology and continuous learning.<br>
-🤝 Open to collaborating on open-source projects, hackathons, and innovative web solutions.<br>
-⚙️ Interested in backend optimization, cloud architecture, and system design.<br>
-🌱 Currently exploring DevOps tools like Docker, Kubernetes, CI/CD pipelines, and monitoring with CloudWatch.<br>
-💬 Ask me about MERN stack development, AWS services, and problem-solving strategies.<br>
-🏍️ Biker at heart, coder by passion — always ready to explore new places and ideas! 🌍
+* 💻 Full-Stack Developer skilled in **MERN stack** & **AWS Cloud**.
+* 🚀 Love solving real-world problems with tech.
+* 🤝 Open to **collaboration** on projects & hackathons.
+* ⚙️ Exploring **DevOps tools** (Docker, Kubernetes, CI/CD).
+* 🏍️ Biker at heart, coder by passion 🌍
+  
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-bhavsar-/) 
 
 # 💻 Tech Stack:
@@ -65,12 +63,17 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khushal41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khushal41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushal41&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushal41&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Khushal41&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Khushal41&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khushal41&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FE&center=true&width=700&lines=Hi,+I'm+Khushal+Bhavsar!;Full+Stack+Developer+%7C+AWS+Cloud+Enthusiast;Problem+Solver;Tech+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FE&center=true&width=1000&lines=Hi,%20I'm%20Khushal%20Bhavsar!;Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast;Problem%20Solver;Tech%20Explorer%20🚀" />
 </h1>
+
 
 # 💫 About Me:
 💻 Full-Stack Developer skilled in MERN stack and AWS Cloud, building scalable and secure web applications.<br>
